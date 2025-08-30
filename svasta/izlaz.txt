@@ -1,0 +1,57 @@
+Sta je softver i cime se bavi softversko inzenjerstvo?
+Koje tipove softvera imamo?
+Po cemu se razlikuje softversko inzenjerstvo od informatike (nauke o racunarstvu)?
+Sta je softverski proces i koje su aktivnosti zajednicke za sve softverske procese?
+Inkrementalni razvoj softvera (graficki ilustrovati, prednosti i problemi).
+Razvoj softvera po modelu vodopada (dijagram, prednosti i problemi).
+Spiralni model procesa specifikacije zahteva.
+Navesti faze RUP metodologije i objasniti sta se dobija kao rezultat svake faze.
+Objasniti odnos faza i iteracija u RUP-u.
+Graficki ilustrovati i opisati Scrum proces.
+Navesti i kratko opisati faze u SCRUM-u.
+Koje vrednosti promovise agilni manifest?
+Sta predstavlja upravljanje zahtevima?
+Navesti i kratko opisati najpoznatije metode inzenjeringa zahteva.
+Koraci pri modelovanju sistema i prikupljanju zahteva primenom objektno-orijentisanih metoda.
+Kako se opisuju slucajevi koriscenja (use-case-ovi). Ilustrovati na primeru.
+Objasniti osnovne tipove veza kod Use-case dijagrama i ilustrovati jednim dijagramom.
+Graficki ilustrovati i kratko opisati „4+1“ model sistema.
+Ukratko opisati i navesti prednosti i nedostatke klijent/server arhitekturnog modela.
+Ukratko opisati i navesti prednosti i nedostatke slojevitog (layered) arhitekturnog modela.
+Navesti osnovne karakteristike i graficki ilustrovati broadcast arhitekturne modele.
+Opisati i uporediti top-down i bottom-up pristupe projektovanja softvera.
+Navesti i kratko opisati osobine dobro projektovanog softvera.
+Koji su atributi dobrog softvera?
+Navesti i kratko opisati osobine dobrog projekta.
+Sta predstavlja upravljanje projektima i po cemu su softverski projekti osobeni?
+Navesti i kratko objasniti kategorije strategija za upravljanje rizikom.
+Graficki ilustrovati i kratko opisati proces upravljanja rizikom.
+Sta predstavlja verifikacija, a sta validacija softvera?
+Opisati i kratko objasniti strukturu test slucajeva.
+Sta predstavlja i koji su ciljevi inspekcije softvera?
+Navesti i kratko opisati tipove odrzavanja softvera.
+Graficki ilustrovati i kratko opisati odnos izmedju evolucije i servisiranja.
+Sta predstavlja i sta se dobija reinzenjeringom sistema.
+Nacrtati dijagram V-modela razvoja softvera.
+Graficki ilustrovati i objasniti proces nabavke sistema.
+Navesti i kratko opisati atribute dobrog softvera.
+Use-case metoda i scenariji dogadjaja. Ilustrovati na primeru.
+Navesti, kratko opisati i uporediti razlicite metode testiranja softvera.
+Sta su nepozeljne karakteristike ("shall-not" svojstva)?
+Uporediti model vodopada i inkrementalni model razvoja softvera.
+Koje su karakteristike, prednosti i nedostaci event-driven arhitekturnih modela.
+Opisati i graficki ilustrovati proces izrade rasporeda rada na projektu i tipicne probleme vezane za ovu aktivnost.
+Sta je refaktoring, a sta reinzenjering? Navesti slicnosti i razlike.
+Sta je „4+1“ model softverske arhitekture? Ilustruj i kratko opisi.
+Koje kategorije softverskih zahteva postoje? Ukratko ih opisi.
+Sta je upravljanje softverskim projektima i po cemu se razlikuje od ostalih projekata?
+Sta je slojeviti (layered) arhitekturni model? Koje su njegove prednosti i nedostaci?
+Sta je inspekcija softvera i koji su njeni osnovni ciljevi?
+Koje metode testiranja softvera postoje? Ukratko ih opisi i uporedi.
+Koji su tipovi odrzavanja softvera? Ukratko ih opisi.
+Koje faze cine RUP metodologiju i sta se dobija u svakoj fazi?
+Koje su zajednicke aktivnosti u razlicitim softverskim procesima?
+Navesti i kratko opisati zajednicke aktivnosti za razlicite softverske procese.
+Graficki ilustrovati i opisati razvoj softvera po modelu vodopada. Koje su prednosti, a koji nedostaci ovog modela.
+Ukratko opisati i navesti prednosti i nedostatke arhitekturnog modela „skladiste“ (repository).
+Ukratko opisati i navesti prednosti i nedostatke arhitekturnog modela protocne obrade (pipe & filter).
